@@ -1,0 +1,56 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Keep!
+!*.obj
+!externals/lib/
+!*.dll
+
+# Other
+\.vs/
+
+*junck/
+
+Console Band \(OpenGL style\) V3/x64/
+
+*.iobj
+*.ipdb
+*.pdb
+
+Console Band (OpenGL style) V3/Models/BIN/
+
+GameEmGine/lib/
+
+*.TMP
+
+*.ilk
+
+Console Band (OpenGL style) V3/Models/nanosuit.rar
+
+Externals/include/glm/out/
